@@ -10,7 +10,7 @@ For making predition I've used jaccard metric as Jaccard similarity index (somet
 2.Predicted vs Actual category name.
 
 I've achieved jac score of  0.02066706369836303 and mean jac score of 0.16669303166699856
-and successfully made the recommendations of 5 pratilipi of userid;
+and successfully made the recommendations of 5 pratilipi of userid,
 
 1) 3263998672675492
 
