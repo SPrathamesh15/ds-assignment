@@ -10,7 +10,15 @@ I've achieved jac score of  0.02066706369836303 and mean jac score of 0.16669303
 and successfully made the recommendations of 5 pratilipi of userid,
 
 1.3263998672675492
+
+
 2.3264359729373860
+
+
 3.3264802291360420
+
+
 4.3308162227544740
+
+
 5.3314890925580964
