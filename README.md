@@ -21,3 +21,5 @@ and successfully made the recommendations of 5 pratilipi of userid,
 4) 3308162227544740
 
 5) 3314890925580964
+
+I've attached 2 files 1 is for EDA and data cleaning and other one is for building model.
