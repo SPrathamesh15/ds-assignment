@@ -23,3 +23,5 @@ and successfully made the recommendations of 5 pratilipi of userid,
 5) 3314890925580964
 
 I've attached 2 files 1 is for EDA and data cleaning and other one is for building model.
+
+Alternatives of LightFM are TensorFlow, keras and Scikit-learn. As I mention earlier that lightfm is flexible to use as it gives data directly to the recommender system. And lightfm also provide a very rich set of evaluating matrics such as AUC, Precision at K, Recall at K, Reciprocal Rank etc.
